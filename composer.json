@@ -1,0 +1,15 @@
+{
+    "name": "zied/image-resize",
+    "autoload": {
+        "psr-4": {
+            "Zied\\ImageResize\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zied-bouazizi",
+            "email": "33433235+zied-bouazizi@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
