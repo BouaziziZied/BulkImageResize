@@ -11,5 +11,7 @@
             "email": "33433235+zied-bouazizi@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "imagine/imagine": "^1.2"
+    }
 }
